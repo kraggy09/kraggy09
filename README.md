@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kraggy09&label=Profile%20views&color=0e75b6&style=flat" alt="kraggy09" /> </p>
 
-- 🔭 I’m currently working on [BitBolt](https://github.com/kraggy09/bit-bolt)
+- 🔭 I’m currently working on [JourneyJet](https://github.com/kraggy09/journey-jet)
 
 - 🌱 I’m currently learning **ReactJS**
 
