@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kraggy09&label=Profile%20views&color=0e75b6&style=flat" alt="kraggy09" /> </p>
 
-- 🔭 I’m currently working on [MovieFlix](https://github.com/kraggy09/bill-quill)
+- 🔭 I’m currently working on [BillQuill](https://github.com/kraggy09/bill-quill)
 
 - 🌱 I’m currently learning **ReactJS**
 
