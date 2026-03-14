@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Rahigo](https://www.rahigo.in)
 
-- 👨‍💻 All of my projects are available at [https://kaif-dev.netlify.app](https://kaif-dev.netlify.app)
+- 👨‍💻 All of my projects are available at [https://www.kaifsk.com](https://www.kaifsk.com)
 
 - 💬 Ask me about **MERN Stack**
 
