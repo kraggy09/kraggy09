@@ -147,12 +147,21 @@ Typical systems include:
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kraggy09&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraggy09&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kraggy09&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraggy09&layout=compact&hide_border=true&langs_count=8&theme=transparent"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kraggy09&hide_border=true&theme=transparent" />
+  <img
+    src="https://streak-stats.demolab.com?user=kraggy09&hide_border=true&theme=transparent"
+    height="165"
+  />
 </p>
 
 ---
@@ -161,7 +170,7 @@ Typical systems include:
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kraggy09&hide_border=true&area=true&custom_title=Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kraggy09&hide_border=true&area=true&custom_title=Contribution%20Activity&theme=github-compact"
     width="95%"
   />
 </p>
@@ -182,7 +191,9 @@ I would rather build a focused product that solves one real problem extremely we
 
 <p align="center">
   <a href="https://www.kaifsk.com">
-    <img src="https://img.shields.io/badge/View%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/View%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"
+    />
   </a>
 </p>
 
@@ -192,19 +203,31 @@ I would rather build a focused product that solves one real problem extremely we
 
 <p align="center">
   <a href="https://linkedin.com/in/kaif-shaikh-bb2260194">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="40"/>
+    <img
+      src="https://skillicons.dev/icons?i=linkedin&theme=light"
+      width="40"
+    />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://twitter.com/kaifshaikh_2002">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=light" width="40"/>
+    <img
+      src="https://skillicons.dev/icons?i=twitter&theme=light"
+      width="40"
+    />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/kraggy09">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" width="40"/>
+    <img
+      src="https://skillicons.dev/icons?i=github&theme=light"
+      width="40"
+    />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.leetcode.com/kraggy">
-    <img src="https://skillicons.dev/icons?i=leetcode&theme=light" width="40"/>
+    <img
+      src="https://skillicons.dev/icons?i=leetcode&theme=light"
+      width="40"
+    />
   </a>
 </p>
 
