@@ -1,98 +1,213 @@
-<h1 align="center">Hi 👋, I'm Kaif Shaikh</h1>
-<h3 align="center">Full-Stack Product Engineer | Building Real-World Platforms</h3>
+<h1 align="center">Kaif Shaikh</h1>
 
 <p align="center">
-I build scalable web products, marketplaces, and internal systems using modern JavaScript technologies.
+  <strong>Full-Stack Product Engineer · Founder · Builder</strong>
+</p>
+
+<p align="center">
+  I build scalable web products, marketplaces, automation systems, and internal platforms
+  that solve real-world business problems.
+</p>
+
+<p align="center">
+  <a href="https://www.kaifsk.com">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/kaif-shaikh-bb2260194">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/kaifshaikh_2002">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
+  </a>
+  <a href="https://github.com/kraggy09">
+    <img src="https://img.shields.io/github/followers/kraggy09?style=flat-square&logo=github&label=Followers" />
+  </a>
 </p>
 
 ---
 
-### 🚀 What I'm Currently Building
+## Currently Building
 
-- 🔭 **Founder & Developer of [Rahigo](https://www.rahigo.in)**  
-  A vehicle booking marketplace where customers request vehicles (9–65 seaters) and operators compete with quotes.
+**Founder & Developer — [Rahigo](https://www.rahigo.in)**
 
-- 🧠 Building internal **CRM, booking systems and automation tools** for travel businesses.
+A vehicle booking marketplace connecting customers with operators for 9–65 seater vehicles. Customers submit their requirements and operators compete with quotes.
 
-- 🌍 Working on **SEO-driven platforms and marketplace infrastructure**
-
----
-
-### 💻 Tech Stack
-
-**Frontend**
-
-- React.js
-- Next.js
-- Redux
-- TailwindCSS
-
-**Backend**
-
-- Node.js
-- Express.js
-- MongoDB
-
-**Other Tools**
-
-- TypeScript
-- Puppeteer
-- REST APIs
-- Chart.js
-- Postman
+Alongside Rahigo, I build internal CRM, booking, automation, and operational systems for travel businesses, with a strong focus on SEO-driven platforms and marketplace infrastructure.
 
 ---
 
-### 🧠 What I Focus On
+## About
 
-- Building **scalable full-stack applications**
-- Designing **marketplace platforms**
-- Creating **automation tools and internal dashboards**
-- Solving **real business problems with software**
+I enjoy building software around real businesses rather than isolated applications.
 
----
+My work typically involves taking a manual or fragmented process, understanding the underlying workflow, and turning it into a reliable product.
 
-### 🌐 Portfolio
+My interests include:
 
-👨‍💻 Projects and work:  
-👉 https://www.kaifsk.com
+* Product engineering
+* Marketplace architecture
+* SaaS platforms
+* Business automation
+* Booking & logistics systems
+* Internal tools and dashboards
+* Backend architecture
+* SEO-driven products
+* API design
+* Data and workflow systems
 
----
-
-### 📫 Connect With Me
-
-<p align="left">
-<a href="https://twitter.com/kaifshaikh_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kaif-shaikh-bb2260194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kraggy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-</p>
+I prefer simple user experiences backed by well-structured systems.
 
 ---
 
-### 🛠 Languages & Tools
+## Tech Stack
 
-<p align="left">
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/> </a>
-</p>
-
----
-
-### 📊 GitHub Stats
+### Languages
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kraggy09&show_icons=true&locale=en&layout=compact" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,python&theme=light" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kraggy09&show_icons=true&locale=en" />
-</p>
+### Frontend
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kraggy09" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=light" />
+</p>
+
+### Backend & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis&theme=light" />
+</p>
+
+### Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,aws,docker&theme=light" />
+</p>
+
+---
+
+## Engineering Focus
+
+```text
+Product
+   ↓
+Architecture
+   ↓
+Backend & Data
+   ↓
+Automation
+   ↓
+Deployment
+   ↓
+Real Users
+   ↓
+Feedback
+   ↓
+Iteration
+```
+
+I like owning the complete product lifecycle — from understanding the problem and designing the system to writing the code, deploying it, and improving it based on real usage.
+
+---
+
+## Selected Work
+
+### Rahigo
+
+**Vehicle Booking Marketplace**
+
+A marketplace for outstation vehicle bookings where customers publish trip requirements and operators compete with quotes.
+
+**Focus:** Marketplace · Logistics · Booking · Payments · Operations
+
+**Stack:** TypeScript · React · Node.js · PostgreSQL · Redis
+
+[Visit Rahigo](https://www.rahigo.in)
+
+---
+
+### Business Automation Systems
+
+Building software for travel and service businesses to simplify operational workflows.
+
+Typical systems include:
+
+* CRM platforms
+* Booking management
+* Quotation systems
+* Customer management
+* Operational dashboards
+* Notifications
+* Reporting
+* Workflow automation
+
+---
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kraggy09&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraggy09&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kraggy09&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kraggy09&hide_border=true&area=true&custom_title=Contribution%20Activity"
+    width="95%"
+  />
+</p>
+
+---
+
+## What I Care About
+
+I value engineering that is:
+
+**Simple · Reliable · Maintainable · Scalable**
+
+I would rather build a focused product that solves one real problem extremely well than create another application that exists only as a portfolio demo.
+
+---
+
+## Portfolio
+
+<p align="center">
+  <a href="https://www.kaifsk.com">
+    <img src="https://img.shields.io/badge/View%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/kaif-shaikh-bb2260194">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="40"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/kaifshaikh_2002">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=light" width="40"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/kraggy09">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" width="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.leetcode.com/kraggy">
+    <img src="https://skillicons.dev/icons?i=leetcode&theme=light" width="40"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Building products · Solving real problems · Shipping continuously</sub>
 </p>
